@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xd3de1D22103AD7625E996dd6ee2B6C370B81704C",
+  "SCAN_LINK": "https://bscscan.com/token/0xd3de1d22103ad7625e996dd6ee2b6c370b81704c",
+  "NETWORK": {
+    "NAME": "Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Doomer Nfts",
+  "SYMBOL": "Doomer",
+  "MAX_SUPPLY": 222,
+  "WEI_COST": 600000000000000000,
+  "DISPLAY_COST": 0.6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "About",
+  "MARKETPLACE_LINK": "https://nft.doomer.app/",
+  "SHOW_BACKGROUND": true
+}
